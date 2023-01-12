@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Étudiante Développeur Web.<br>🤝 En recherche d'alternance.<br>🌱 Inscrite pour suivre la formation de Concepteur Développeur d'Application.<br> 📍   Amiens (et ses alentours).<br>  🚓  Ancienne fonctionnaire de Police.<br>⚡  Esprit d'équipe renforcé<br><br>    📚  Passionnée de lecture et d'écriture.<br>    🎮  Joueuse de MMORPG.<br>  ⚔️ GoT Fan <br><br>💬 Contactez moi !
+🔭 Étudiante Développeur Web.<br>🤝 En recherche d'alternance.<br>🌱 Inscrite pour suivre la formation de Concepteur Développeur d'Application.<br> 📍   Amiens (et ses alentours).<br>  🚓  Ancienne fonctionnaire de Police.<br>⚡  Esprit d'équipe renforcé<br><br>    📚  Passionnée de lecture et d'écriture.<br>    🎮  Joueuse de MMORPG.<br>    ⚔️  GoT Fan <br><br>💬 Contactez moi !
 
 
 ## 🌐 Socials:
